@@ -11,4 +11,11 @@ body{
     text-align:left;
     border: 1px solid #DDD;
     padding: 0 auto;
+    margin-left: 300px;
+}
+.cabecera{
+    color: #fff;
+    background-color: blue;
+    padding: 10px;
+    margin: 0;
 }
